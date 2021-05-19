@@ -1,4 +1,4 @@
-# divergence-meter
+# divergence-meter(steins;gate)
 
 ## Project setup
 ```
